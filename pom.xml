@@ -33,7 +33,6 @@
         <module>xbatis-sql-api</module>
         <module>xbatis-sql-api-impl</module>
         <module>xbatis-core</module>
-        <module>xbatis-tdengine</module>
     </modules>
 
     <properties>
